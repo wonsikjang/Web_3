@@ -7,7 +7,7 @@
   >> Email: abell2667@gm.gist.ac.kr
 
   > ### 장원식
-  >> Email:
+  >> Email: wonsicjang@gm.gist.ac.kr 
 
   > ### 전동희
   >> Email:
