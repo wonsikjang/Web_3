@@ -13,4 +13,4 @@
   >> Email: aminor32@gist.ac.kr
 
   > ### 배설영
-  >> Email:
+  >> Email: seolyeongbae@gm.gist.ac.kr
