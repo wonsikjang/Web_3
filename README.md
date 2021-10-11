@@ -10,7 +10,7 @@
   >> Email: wonsicjang@gm.gist.ac.kr 
 
   > ### 전동희
-  >> Email:
+  >> Email: aminor32dh@gist.ac.kr
 
   > ### 배설영
   >> Email:
