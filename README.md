@@ -1,7 +1,7 @@
 # GDSC_GIST Web_3
   
   > ### 황장원 (Lead)
-  >> Email:
+  >> Email: star4007lg@gmail.com
   
   > ### 이지아
   >> Email: abell2667@gm.gist.ac.kr
