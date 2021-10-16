@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import {authService, firebaseInstance} from "fbase";
+import {authService } from "fbase";
 import { createUserWithEmailAndPassword, signInWithPopup,signInWithEmailAndPassword, GithubAuthProvider, GoogleAuthProvider } from "firebase/auth";
 
 const Auth = () => {
@@ -33,9 +33,9 @@ const Auth = () => {
     const onSocialClick = async (event) => {
         const {target: {name}} = event;
         let provider;
-        if(name == "google") {
+        if(name === "google") {
             provider = new GoogleAuthProvider();
-        } else if(name == "github") {
+        } else if(name === "github") {
             provider = new GithubAuthProvider();
         }
         const data = await signInWithPopup(authService,provider);
