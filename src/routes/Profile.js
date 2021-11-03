@@ -1,7 +1,7 @@
-import React, { useEffect, useState  } from "react";
-import { authService, dbService } from "fbase";
+import React, { useState  } from "react";
+import { authService } from "fbase";
 import { useHistory } from "react-router";
-import { updateProfile } from "firebase/auth";
+
 
 export default ({ refreshUser, userObj }) => {
     const hisory = useHistory();
